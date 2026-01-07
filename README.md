@@ -19,6 +19,8 @@
 <a href="#"><img src="https://img.shields.io/badge/category-Strategy_Guide-orange?style=flat" alt="category"/></a>
 <a href="#"><img src="https://img.shields.io/badge/format-Documentation-lightgrey?style=flat" alt="format"/></a>
 
+<br><br>
+
 <img src="https://i.ytimg.com/vi/44aL2_lFcTs/maxresdefault.jpg" width="824" alt="Screenshot"/>
 
 </div>
